@@ -27,12 +27,12 @@
         "volumetric": {
             "density": {
                 "air": {
-                    "max_density": 0.225,
+                    "max_density": 0.15,
                     "max_density_height": 62,
                     "zero_density_height": 256
                 },
                 "weather": {
-                    "max_density": 0.25,
+                    "max_density": 0.2,
                     "uniform": true
                 }
             },
@@ -44,21 +44,21 @@
                         0.0089
                     ],
                     "absorption": [
-                        0,
+                        0.008075,
                         0.01615,
-                        0.03325
+                        0.0247
                     ]
                 },
                 "water": {
                     "scattering": [
-                        0.00076,
-                        0.006186,
-                        0.010039
+                        0.001736,
+                        0.014137,
+                        0.022941
                     ],
                     "absorption": [
-                        0.38749,
-                        0.256061,
-                        0.162746
+                        0.472549,
+                        0.279108,
+                        0.141765
                     ]
                 },
                 "cloud": {

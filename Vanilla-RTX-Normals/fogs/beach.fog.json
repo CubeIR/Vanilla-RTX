@@ -7,7 +7,7 @@
         "distance": {
             "water": {
                 "fog_start": 0.95,
-                "fog_end": 1.0,
+                "fog_end": 1,
                 "fog_color": "#157cab",
                 "render_distance_type": "render",
                 "transition_fog": {
@@ -44,9 +44,9 @@
                         0.0089
                     ],
                     "absorption": [
-                        0,
+                        0.0040375,
                         0.01615,
-                        0.03325
+                        0.037525
                     ]
                 },
                 "water": {
