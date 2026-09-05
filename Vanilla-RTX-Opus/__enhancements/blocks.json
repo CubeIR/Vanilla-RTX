@@ -1,8 +1,8 @@
 {
     "format_version": [
         1,
-        1,
-        0
+        21,
+        40
     ],
     "cauldron": {
         "textures": {
@@ -95,9 +95,6 @@
     "pale_oak_sapling": {
         "blockshape": "cross_texture"
     },
-    "sapling": {
-        "blockshape": "cross_texture"
-    },
     "spruce_sapling": {
         "blockshape": "cross_texture"
     },
@@ -141,9 +138,9 @@
         "blockshape": "cross_texture"
     },
     "poppy": {
-        "blockshape": "double_plant"
+        "blockshape": "cross_texture"
     },
-    "red_flower": {
+    "cornflower": {
         "blockshape": "cross_texture"
     },
     "red_mushroom": {
@@ -235,9 +232,6 @@
     },
     "tall_grass": {
         "blockshape": "double_plant"
-    },
-    "tallgrass": {
-        "blockshape": "cross_texture"
     },
     "torchflower": {
         "blockshape": "cross_texture"
