@@ -69,7 +69,10 @@ However there are limits to resource packs, and most of the remaining issues you
 
 - If you're using a dual-GPU setup (e.g. a Laptop with an Integrated GPU) make sure Minecraft is set to use High Performance GPU preference.  
 
-- If the game window appears black, exit full-screen (press F11), close the game, relaunch the game and continue to play without entering full-screen mode.  
+- If the game window appears black, exit full-screen (press F11), close the game, relaunch the game and continue to play without entering full-screen mode.
+
+Find a complete list of unresolved Minecraft RTX issues from the link below. Vote for issues that impact you to help get Mojang's attention.
+[github.com/Cubeir/Minecraft-RTX-Bug-Tracking/blob/master/README.md](https://github.com/Cubeir/Minecraft-RTX-Bug-Tracking/blob/master/README.md)
 
 ## Copyright
 [View License](https://github.com/CubeIR/Vanilla-RTX/blob/master/LICENSE.txt) 
